@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace lisandroct.ScriptableValues.Default
+namespace lisandroct.ScriptableValues
 {
     [System.Serializable]
     public class IntVar : ScriptableVariable<int, IntValue> { }

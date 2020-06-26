@@ -1,6 +1,6 @@
 ﻿using UnityEditor;
 
-namespace lisandroct.ScriptableValues.Default
+namespace lisandroct.ScriptableValues
 {
     [CustomPropertyDrawer(typeof(BoolVar))]
     public class BoolVarDrawer : ScriptableVariableDrawer { }
